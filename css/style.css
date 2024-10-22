@@ -1,0 +1,27 @@
+/*welcome*/
+#welcome-menu {
+  background-color: #d3b684;
+  height: 300px;
+}
+.welcome-menu-context {
+  padding: 50px 0;
+}
+#welcome-foto {
+  height: 150px;
+}
+#main-info {
+  background-color: #e9f6e6;
+  height: 500px;
+}
+.main-info-context {
+  padding: 50px 0;
+}
+footer {
+  background-color: #c39270;
+  height: 200px;
+}
+#footer-info {
+}
+.footer-info-context {
+  padding: 50px 0;
+}
